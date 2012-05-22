@@ -1,0 +1,4 @@
+This project is a variation of Ben Heck's portable workbench, as seen in Popular Mechanics. Instead of a workbench, you'd be assembling a portable soldering station. 
+This project contains CorelDraw (*.cdr) files for cutting 1/2" Plywood on a Laser Cutter, or optionally on a wood CNC, such as a ShopBot.
+
+Also included in the project files is an Arduino sketch targeted at the ATTINY45that controls an LED on a lighted switch to indicate state of the power to the soldering station.
